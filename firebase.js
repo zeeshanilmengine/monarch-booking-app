@@ -4,7 +4,6 @@ import { getFirestore } from 'firebase/firestore';
 
 // ✅ Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBvdq_VgSMhlniodhWoLhMWbOB5MJRTjeY",
   authDomain: "monarch-routes-app.firebaseapp.com",
   projectId: "monarch-routes-app",
   storageBucket: "monarch-routes-app.appspot.com", // ✅ FIXED: should be .appspot.com
